@@ -15,3 +15,15 @@
         }
     }
 }
+{
+    // Name this configuration
+    "name": "Introduction to Copilot",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot",
+                "ms-dotnettools.csdevkit"
+            ]
+        }
+    }
+}
